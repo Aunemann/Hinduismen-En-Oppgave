@@ -1,1 +1,0 @@
-# Hinduismen-En-Oppgave
