@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
 .hlogo {
   width: 50px;
   height: 50px;
@@ -5,12 +7,13 @@
   top: 10px;
   left: 10px;
 }
+
 header {
   position: relative;
   background-color: #333;
   color: #fff;
   padding: 10px;
-  text-align: ;
+  text-align: center;
 }
 .guddommer {
   float: right;
@@ -27,3 +30,61 @@ header {
 .tittel {
   position: center;
 }
+
+#supd {
+  font-size: 8px;
+}
+  #aune {
+  font-size: 8px;
+}
+    #kilde {
+    font-size: 13px;
+  }
+  body {
+    font-family: "Raleway", sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  nav {
+    background-color: #555;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+  }
+  section {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  }
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
+
+  a {
+    color: #414141;
+    text-decoration: none;
+  }
+
+  img {
+    padding: 10px;
+  }
